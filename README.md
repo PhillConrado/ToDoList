@@ -13,4 +13,4 @@
 
 ## Contribuições
 
-Todas as contribuições são bem vindas
+Todas as contribuições são bem vindas!
